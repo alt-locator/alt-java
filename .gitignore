@@ -1,3 +1,9 @@
+.gradle/
 .idea/
-alt-java.iml
+build/
+gradle/
 target/
+
+alt-java.iml
+gradlew
+gradlew.bat
